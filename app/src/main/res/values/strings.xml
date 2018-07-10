@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TurfReserve</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">TurfReserve</string>
+    <string name="nav_header_subtitle">Find a turf near you!! </string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="turf_array">
+        <item>Select turf....</item>
+        <item>Arena One</item>
+        <item>Oshwal Centre Astro Turf</item>
+        <item>Camp Toyoyo</item>
+        <item>Ngong Road Turf</item>
+    </string-array>
+</resources>

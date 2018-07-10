@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "183124670772",
+    "firebase_url": "https://turfreserve.firebaseio.com",
+    "project_id": "turfreserve",
+    "storage_bucket": "turfreserve.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183124670772:android:9de343f859cbd3b2",
+        "android_client_info": {
+          "package_name": "com.example.root.turfreserve"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "183124670772-uko3ia0a0p1dlp0uk05hr18363565svm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.root.turfreserve",
+            "certificate_hash": "9cb1555cd88afc4cbfd217f71ef9ad8bf5d777a5"
+          }
+        },
+        {
+          "client_id": "183124670772-cgjein46f40igdsl47ufob3rvsppm2ji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2bMmLeZHg6ysqg1rFDXyGEi8a5w6jsjY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "183124670772-cgjein46f40igdsl47ufob3rvsppm2ji.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
