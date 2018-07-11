@@ -106,7 +106,7 @@ public class HomeActivity extends AppCompatActivity
         drawer.closeDrawer(GravityCompat.START);
         return true;
     }
-
+//connection to mapAcitivity
     public void map(MenuItem item) {
         Intent map = new Intent(getApplicationContext(),MapActivity.class);
         startActivity(map);
